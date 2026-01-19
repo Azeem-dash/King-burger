@@ -1,12 +1,12 @@
 
-import React, { useState } from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Menu from './components/Menu';
-import OrderingOptions from './components/OrderingOptions';
-import LocationHours from './components/LocationHours';
-import About from './components/About';
-import Footer from './components/Footer';
+import React from 'react';
+import Navbar from './components/Navbar.tsx';
+import Hero from './components/Hero.tsx';
+import Menu from './components/Menu.tsx';
+import OrderingOptions from './components/OrderingOptions.tsx';
+import LocationHours from './components/LocationHours.tsx';
+import About from './components/About.tsx';
+import Footer from './components/Footer.tsx';
 
 const App: React.FC = () => {
   return (

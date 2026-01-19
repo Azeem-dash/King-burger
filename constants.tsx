@@ -1,5 +1,5 @@
 
-import { MenuItem, Category } from './types';
+import { MenuItem, Category } from './types.ts';
 
 export const RESTAURANT_NAME = "King Burger & Pizza";
 export const RESTAURANT_PHONE = "+923054348080";
